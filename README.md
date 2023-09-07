@@ -49,17 +49,10 @@ This is basically an app where you can find the recipes of delicious dishes.
 
 
 # Team Members
-Khushi Mattu 20BCE1189
-
-Sudeeksha Ganguli 20BCE1549
-
 Priyanshu Kapoor 20BCE1701
 
 
 # Contribution
-
-Priyanshu Kapoor - Designed Home Page and Navigation
-
-Khushi Mattu - Designed Category page and Navigation for that page
-
-Sudeeksha Ganguli - Done Linking of pages and Designed Search page
+Designed Home Page and Navigation
+Designed Category page and Navigation for that page
+Done Linking of pages and Designed Search page
