@@ -53,6 +53,6 @@ Priyanshu Kapoor 20BCE1701
 
 
 # Contribution
-*Designed Home Page and Navigation
-*Designed Category page and Navigation for that page
-*Done Linking of pages and Designed Search page
+* Designed Home Page and Navigation </br>
+* Designed Category page and Navigation for that page</br>
+* Done Linking of pages and Designed Search page</br>
